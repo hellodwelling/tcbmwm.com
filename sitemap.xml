@@ -2,3 +2,152 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://tcbmwm.com/index</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/store</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/reviews</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/gallery-All</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/gallery-All-Photos</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/gallery-Pressure-Wash</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/gallery-Landscaping</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/gallery-Commercial</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/gallery-Drywall</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/gallery-Flooring</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/gallery-Other-Services</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/service-Snow-Removal</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/service-Bathroom-Renovation</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/service-Basement-Renovation</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/service-Deck-Handrail-Repair/Replacement</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/service-Stair-Removal-And-Replacement</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/service-Carpentry</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/service-Tree-Trimming-and-Removal</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/service-Deck-&-Patio</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/service-Flooring</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tcbmwm.com/service-Kitchen-Renovation</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
